@@ -1,7 +1,7 @@
-# SNAKE GAME
+# PUZZLE GAME
 
 
-Creating a snake game in JavaScript
+Creating a puzzle game in JavaScript
 
 * 
 Image_2 file is my photo in the form of
